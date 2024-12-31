@@ -1,20 +1,13 @@
-# Bmi-
+
 
 <a name="readme-top"></a>
-<div align="center">
+<div >
 
-  ![Project Banner](readme_assets/readme_banner.png#gh-dark-mode-only)
-  ![Project Banner](readme_assets/readme_banner-light.png#gh-light-mode-only)
+  <h1 align="center" >BMI Calculator App</h1>
 
-  <h1>BMI Calculator App</h1>
-  
-  <p>
-    An BMI Calculator App that measures your Body Mass Index with decimal precision!
-  </p>
 
-  
 <!-- Badges -->
-<p>
+<p align="center">
   <p>
   <a href="https://github.com/jiya10208/bmi-/graphs/contributors">
     <img src="https://github.com/jiya10208/bmi-/blob/main/images/input_page.png" alt="" width=280vw />
@@ -36,7 +29,38 @@
     <img src="https://img.shields.io/github/license/ladunjexa/bmi-calculator-app.svg" alt="license" />
   </a>
 </p>
-   
+     
+<div align="justify">
+<h2 align="justify">Our Goal</h2>
+<p>The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no matter how unconventional their designs are, we can create them using Flutter.
+</p> 
+</div>
+<br />
+
+  
+  <p>
+    An BMI Calculator App that measures your Body Mass Index with decimal precision!
+  </p>
+<p>
+  <h2>What do we learn</h2>
+  <li>How to use Flutter themes to create coherent branding.
+  </li>
+      <li>How to create multi-page apps using Flutter Routes and Navigator.
+  </li>
+    <li>How to extract and refactor Flutter Widgets with a click of the button.
+  </li>
+    <li>How to pass functions as parameters and fields.
+  </li>
+    <li>How to use the GestureDetector Widget to detect more than just a tap.
+  </li>  <li>How to use custom colour palettes by using hex codes.
+  </li>  <li>How to customise Flutter Widgets to achieve a specific design style.
+  </li>  <li>Understand Dart Enums and the Ternary Operator.
+  </li>  <li>Learn about composition vs. inheritance and the Flutter way of creating custom UI.
+  </li>  <li>Understand the difference between const and final in Dart and when to use each.
+  </li>
+</p>
+
+
  <h4>
     <a href="https://github.com/jiya10208/bmi-/">View Demo</a>
   <span> · </span>
